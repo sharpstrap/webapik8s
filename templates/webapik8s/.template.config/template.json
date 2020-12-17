@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Stephen Brown",
+    "classifications": ["Web", "Kubernetes", "Queue", "Solution"],
+    "identity": "SharpStrapTemplate",
+    "sourceName": "SharpStrapTemplate",
+    "name": "Sharpstrap: API with K8s",
+    "shortName": "sharpstrap",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
