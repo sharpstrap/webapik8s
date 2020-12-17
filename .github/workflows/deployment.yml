@@ -24,3 +24,4 @@ jobs:
         PROJECT_FILE_PATH: Sharpstrap.csproj
         VERSION_REGEX: '^\s*<PackageVersion>(.*)<\/PackageVersion>\s*$'
         INCLUDE_SYMBOLS: true
+        NUGET_KEY: ${{secrets.NUGET_KEY}}
