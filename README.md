@@ -2,6 +2,9 @@
 
 Sharpstrap is an "uber" dotnet new template that includes a full project, ready to deploy immediately.
 
+[![NuGet Badge](https://buildstats.info/nuget/Sharpstrap.WebApi)](https://www.nuget.org/packages/Sharpstrap.WebApi/)
+![.NET](https://github.com/sharpstrap/webapik8s/workflows/.NET/badge.svg)
+
 Normally you'd need to:
  - `dotnet new` or create new solution
  - Setup docker build
